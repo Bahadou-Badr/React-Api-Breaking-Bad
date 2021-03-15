@@ -137,3 +137,8 @@ input[type='text'] {
     object-fit: contain;
   }
 }
+.spinner{
+  width: 200px;
+  margin: auto;
+  display: block;
+}
