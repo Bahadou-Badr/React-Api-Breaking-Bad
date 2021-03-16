@@ -3,4 +3,4 @@
 [The Api Link](https://breakingbadapi.com/documentation).
 
 ### Demo
-![Breaking Bad API](public/img/demo.gif)
+![Breaking Bad API](src/img/demo.gif)
